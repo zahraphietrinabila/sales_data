@@ -1,4 +1,4 @@
-##__About the Dataset__
+__About the Dataset__
 
 The dataset consists of 11 columns, each column representing an attribute of purchase on a product -
 Order ID - A unique ID for each order placed on a product
@@ -9,9 +9,11 @@ Order Date - Date on which the order is placed
 Purchase Address - Address to where the order is shipped
 Month, Sales, City, Hour - Extra attributes formed from the above.
 
-##__Acknowledgements__
+__Acknowledgements__
+
 Dataset is downloaded and compiled from KeithGalli's GitHub repository on Pandas Data Science Tasks.
 You find and access the repository here - https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
-Inspiration
+__Inspiration__
+
 A Dataset to practice basic EDA and Cleaning.
